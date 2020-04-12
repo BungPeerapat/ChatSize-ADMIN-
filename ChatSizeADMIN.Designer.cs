@@ -41,13 +41,14 @@
             // UsernameText
             // 
             this.UsernameText.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.UsernameText.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.UsernameText.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.UsernameText.ForeColor = System.Drawing.SystemColors.InactiveBorder;
             this.UsernameText.Location = new System.Drawing.Point(12, 12);
-            this.UsernameText.Multiline = true;
             this.UsernameText.Name = "UsernameText";
-            this.UsernameText.Size = new System.Drawing.Size(315, 53);
+            this.UsernameText.ReadOnly = true;
+            this.UsernameText.Size = new System.Drawing.Size(315, 41);
             this.UsernameText.TabIndex = 0;
+            this.UsernameText.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label1
             // 
