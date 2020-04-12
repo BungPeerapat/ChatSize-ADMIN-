@@ -48,7 +48,7 @@ namespace ChatSize_ADMIN_
             {
                 socket = serverSocket.EndAccept(AR);
             }
-            catch (ObjectDisposedException) // I can not seem to avoid this (on exit when properly closing sockets)
+            catch (ObjectDisposedException)
             {
                 return;
             }
@@ -137,6 +137,16 @@ namespace ChatSize_ADMIN_
         public ChatAppAdminSize()
         {
             InitializeComponent();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ChatAppAdminSize_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
