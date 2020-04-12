@@ -37,10 +37,10 @@
             this.UsernameText.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.UsernameText.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.UsernameText.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.UsernameText.Location = new System.Drawing.Point(305, 145);
+            this.UsernameText.Location = new System.Drawing.Point(23, 12);
             this.UsernameText.Multiline = true;
             this.UsernameText.Name = "UsernameText";
-            this.UsernameText.Size = new System.Drawing.Size(510, 281);
+            this.UsernameText.Size = new System.Drawing.Size(247, 106);
             this.UsernameText.TabIndex = 0;
             // 
             // ChatAppAdminSize
@@ -51,6 +51,7 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1126, 635);
             this.Controls.Add(this.UsernameText);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "ChatAppAdminSize";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chat Size [ADMIN]";
