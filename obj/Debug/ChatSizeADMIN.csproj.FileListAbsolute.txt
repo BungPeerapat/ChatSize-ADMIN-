@@ -3,7 +3,7 @@ C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\bin\De
 C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\bin\Debug\ChatSize[ADMIN].pdb
 C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSize_ADMIN_.ChatAppAdminSize.resources
 C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSize_ADMIN_.Properties.Resources.resources
-C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSizeADMIN.csproj.GenerateResource.cache
-C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSizeADMIN.csproj.CoreCompileInputs.cache
+C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSizeAdmin.csproj.GenerateResource.cache
+C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSizeAdmin.csproj.CoreCompileInputs.cache
 C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSize[ADMIN].exe
 C:\Users\BungK\source\repos\ChatApplicationLearningSocket\ChatSize[ADMIN]\obj\Debug\ChatSize[ADMIN].pdb
